@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>DimensionsApplications</Name>
+		<FullClassName>AutoDimCol.AutoDimensionCommand</FullClassName>
+		<Text>Dimensions App</Text>
+		<Description>This addin to create Dimensions.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>AutoDimCol.dll</Assembly>
+		<AddInId>
+			82C87004-39CA-412D-AD1F-38D59A385693
+		</AddInId>
+		<VendorId>Ashraf</VendorId>
+		<VendorDescription>BIM Developer, ashraf.nabil.uae@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
